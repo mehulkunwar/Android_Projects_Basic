@@ -1,0 +1,6 @@
+com/example/aboutme/databinding/ActivityMainBinding.java
+ com.example.aboutme.databinding.ActivityMainBinding
+com/example/aboutme/DataBindingTriggerClass.java
+ com.example.aboutme.DataBindingTriggerClass
+com/example/aboutme/BuildConfig.java
+ com.example.aboutme.BuildConfig

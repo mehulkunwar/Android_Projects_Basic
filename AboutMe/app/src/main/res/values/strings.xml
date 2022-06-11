@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="mehul_kunwar">Mehul Kunwar</string>
+    <string name="yellowStar">Yellow Star</string>
+    <string name="bio_text">
+        Hello, My name is Mehul Kunwar.
+        \n\nI am from Delhi. Born and brought up here as well.
+        \n\nI am currently working as a Software Engineer.
+        \n\nIn the future i like to become a Tech Lead in a reputed MNC.
+        \n\nRight now I am working in NovelVox , a Contact Centre driven software company.
+        \n\nBut I will soon make a switch.
+
+    </string>
+    <string name="what_is_your_nick_name">What is your Nick Name?</string>
+    <string name="done">Done</string>
+</resources>
